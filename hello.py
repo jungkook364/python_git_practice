@@ -10,4 +10,5 @@ def bio (name,age):
     print(name,age)
 
 bio("arukthi",21)
+bio("karthi",22)
 
