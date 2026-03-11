@@ -11,4 +11,5 @@ def bio (name,age):
 
 bio("arukthi",21)
 bio("karthi",22)
+bio("ganga",41)
 
